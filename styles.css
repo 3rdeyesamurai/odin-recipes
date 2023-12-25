@@ -1,12 +1,15 @@
 * {
     font-family: serif;
-    background-color: rgb(47, 255, 165);
+    background-color: rgba(47, 255, 165, 0.831);
 }
 a:visited {
     color: black;
 }
 a:hover {
     color: white;
+}
+a:active {
+    color: blueviolet;
 }
 h1, h2 {
     text-align: center;
