@@ -2,3 +2,19 @@
     font-family: serif;
     background-color: rgb(47, 255, 165);
 }
+a:visited {
+    color: black;
+}
+a:hover {
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+.mainList {
+    text-align: center;
+}
+ul {
+    list-style-position: inside; /* or outside */
+    list-style-type: none;
+  }
