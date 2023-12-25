@@ -1,6 +1,8 @@
 * {
     font-family: serif;
     background-color: rgba(47, 255, 165, 0.831);
+    margin: 0;
+    padding: 0;
 }
 a:visited {
     color: black;
@@ -13,6 +15,7 @@ a:active {
 }
 h1, h2 {
     text-align: center;
+    color: coral;
 }
 .mainList {
     text-align: center;
