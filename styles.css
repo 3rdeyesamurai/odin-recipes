@@ -8,16 +8,16 @@ a:visited {
 a:hover {
     color: white;
 }
-h1 {
+h1, h2 {
     text-align: center;
 }
 .mainList {
     text-align: center;
     align-items: center;
 }
-ul {
-    list-style-position: inside; /* or outside */
-    list-style-type: none;
+ul, ol {
+    list-style-position: inside;
+    list-style-type:none;
   }
 p {
     text-align: center;
