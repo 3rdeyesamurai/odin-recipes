@@ -16,6 +16,9 @@ a:active {
 h1, h2 {
     text-align: center;
     color: coral;
+    border: 4px dotted black;
+    margin-bottom: 10px;
+    padding: 5px 5px;
 }
 .mainList {
     text-align: center;
@@ -27,6 +30,8 @@ ul {
   }
 p {
     text-align: center;
+    display:block;
+    padding-bottom: 10px;
 }
 ol {
     list-style-position: inside;
